@@ -21,13 +21,5 @@
       <class name="com.qa.testproj.Tests.AccountsPageTest"/>
     </classes>
     </parameter>
-  </test> <!-- Test -->
-  
-   <test  name="ProductInfoPageTest.java">
-   <parameter name="Browser" value="chrome">
-    <classes>
-      <class name="com.qa.testproj.Tests.ProductInfoPageTest.java"/>
-    </classes>
-    </parameter>
-  </test> <!-- Test -->
+  </test> 
 </suite> <!-- Suite -->

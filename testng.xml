@@ -3,7 +3,7 @@
 
 <suite name="Test Automation  Regression Suit for TN"  parallel ="tests"  thread-count="2">
 <listeners>
-	<listener class-name="com.qa.testproj.Listeners.ExtentReportListener" />
+	<!-- <listener class-name="com.qa.testproj.Listeners.ExtentReportListener" /> -->
 	<listener class-name="com.qa.testproj.Listeners.TestAllureListener" />
 </listeners>
 

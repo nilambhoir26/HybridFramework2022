@@ -144,9 +144,11 @@ public class ElementUtils {
 		
 	}
 	
-	public void getPageLinks(By Locator, int timeOut) {
-		visbilityofAllElements(Locator,timeOut).stream().forEach(ele -> System.out.println(ele.getText()));
-	}
+	/*
+	 * public void getPageLinks(By Locator, int timeOut) {
+	 * visbilityofAllElements(Locator,timeOut).stream().forEach(ele ->
+	 * System.out.println(ele.getText())); }
+	 */
 	
 	public WebElement waitForElementPresent(By locator, int timeOut) {
 		WebDriverWait wait = new WebDriverWait(driver, timeOut);

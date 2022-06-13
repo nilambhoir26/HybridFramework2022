@@ -1,0 +1,13 @@
+com\qa\testproj\Base\BaseTest.class
+com\qa\testproj\Base\BasePage.class
+com\qa\testproj\Listeners\ExtentReportListener.class
+com\qa\testproj\Listeners\TestAllureListener.class
+com\qa\testproj\Utils\JavaScriptUtil.class
+com\qa\testproj\Pages\ProductInfoPage.class
+com\qa\testproj\Pages\RegistrationPage.class
+com\qa\testproj\Pages\LoginPage.class
+com\qa\testproj\Utils\Constants.class
+com\qa\testproj\Utils\ElementUtils.class
+com\qa\testproj\Utils\OptionsManager.class
+com\qa\testproj\Utils\ExcelUtils.class
+com\qa\testproj\Pages\AccountsPage.class

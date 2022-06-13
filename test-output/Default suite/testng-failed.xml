@@ -5,6 +5,7 @@
     <classes>
       <class name="com.qa.testproj.Tests.LoginPageTest">
         <methods>
+          <include name="verifyLoginPgTitleTest"/>
           <include name="setUp"/>
           <include name="teardown"/>
           <include name="verifyExistanceOfForgotPswdTest"/>

@@ -11,7 +11,6 @@ import org.testng.ITestResult;
 
 import com.qa.testproj.Base.BasePage;
 
-
 public class TestAllureListener extends BasePage implements ITestListener {
 
 	private static String getTestMethodName(ITestResult iTestResult) {
